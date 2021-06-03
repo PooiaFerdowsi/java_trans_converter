@@ -33,5 +33,5 @@ java HelloWorldOut
 
 ###  use `#` instead `protected`
 
-### use \`{} instead `private`
+### use \` instead `private`
 # Please Help 
